@@ -1,9 +1,6 @@
-### Hi there 👋
+### WinIsEpic
 
-
-###I don't know what to even do anymore 
-
-
+*My goal is to finish every 
 <!--
 **WinIsEpic/WinIsEpic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
